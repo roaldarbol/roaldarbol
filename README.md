@@ -49,12 +49,14 @@ Welcome, I'm Mikkel Roald-Arbøl 👋
 
 https://shields.io/
 https://simpleicons.org/
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 Raise issue in https://github.com/simple-icons/simple-icons/issues?q=is%3Aissue+is%3Aopen+prusa:
  - Prusa
  - OpenSCAD
  - Center of Open Science
  - Obsidian.md
+ - YAML
 
 ### 🧰 Frameworks and libraries
 
