@@ -1,10 +1,10 @@
 <h3 align="center">
-Welcome to Mikkel Roald-Arbøl's profile 👋
+Welcome, I'm Mikkel Roald-Arbøl 👋
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Neuroscientist+at+Sussex;Open+science,+open+source"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Neuroscientist+at+Sussex+University;Open+science,+open+source"></a>
 </p>
 
 ## Tools 🛠️
