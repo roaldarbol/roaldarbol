@@ -21,6 +21,7 @@ Welcome, I'm Mikkel Roald-Arbøl 👋
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?&logo=css3&logoColor=white"></a>
 
 ### 💻 Programming Tools
+  <a href="#"><img alt="Conda" src="https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Github" src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white"></a>
   <a href="#"><img alt="Homebrew" src="https://img.shields.io/badge/-Homebrew-FBB040?logo=homebrew&logoColor=white"></a>
@@ -51,12 +52,7 @@ https://shields.io/
 https://simpleicons.org/
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
-Raise issue in https://github.com/simple-icons/simple-icons/issues?q=is%3Aissue+is%3Aopen+prusa:
- - Prusa
- - OpenSCAD
- - Center of Open Science
- - Obsidian.md
- - YAML
+Raise issue for more icons in https://github.com/simple-icons/simple-icons/issues?q=is%3Aissue+is%3Aopen+prusa:
 
 ### 🧰 Frameworks and libraries
 
