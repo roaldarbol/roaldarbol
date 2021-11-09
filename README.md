@@ -31,6 +31,7 @@ Welcome, I'm Mikkel Roald-Arbøl 👋
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?&logo=visualstudiocode"></a>
 
 ### 🔬 Research Cycle 
+  <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white"></a>
   <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=white"></a>
   <a href="#"><img alt="protocols.io" src="https://img.shields.io/badge/-protocols.io-4D9FE7?logo=protocols.io&logoColor=white"></a>
   <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-A22846?logo=raspberrypi&logoColor=white"></a>
