@@ -42,6 +42,7 @@ Welcome, I'm Mikkel Roald-Arbøl 👋
 ### 🕵️ Privacy Tools
   <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
   <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+  <a href="#"><img alt="MEGA" src="https://img.shields.io/badge/-MEGA-D9272E?logo=mega&logoColor=white"></a>
   <a href="#"><img alt="ProtonMail" src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=ProtonMail&logoColor=white"></a>
   <a href="#"><img alt="ProtonVPN" src="https://img.shields.io/badge/-ProtonVPN-56B366?logo=ProtonVPN&logoColor=white"></a>
   <a href="#"><img alt="Signal" src="https://img.shields.io/badge/-Signal-3A76F0?logo=Signal&logoColor=white"></a>
