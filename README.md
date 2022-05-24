@@ -28,7 +28,7 @@ Welcome, I'm Mikkel Roald-Arbøl 👋
   <a href="#"><img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?logo=jekyll&logoColor=white"></a>
   <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?&logo=rstudio&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack Overflow-F58025?logo=stackoverflow&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?&logo=visualstudiocode"></a>
+  <a href="#"><img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-007ACC?&logo=visualstudiocode"></a>
 
 ### 🔬 Research Cycle 
   <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white"></a>
