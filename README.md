@@ -31,6 +31,7 @@
   <a href="#"><img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-007ACC?&logo=visualstudiocode"></a>
 
 ### 🔬 Research Cycle 
+  <a href="#"><img alt="Incscape" src="https://img.shields.io/badge/-Inkscape-000000?logo=inkscape&logoColor=white"></a>
   <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white"></a>
   <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=white"></a>
   <a href="#"><img alt="protocols.io" src="https://img.shields.io/badge/-protocols.io-4D9FE7?logo=protocols.io&logoColor=white"></a>
