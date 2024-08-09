@@ -12,13 +12,10 @@
 ### 👨‍💻 Programming Languages
   <a href="#"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?&logo=r&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="Octave & Matlab" src="https://img.shields.io/badge/-Octave & Matlab-0790C0?&logo=octave&logoColor=white"></a>
   <a href="#"><img alt="Micropython" src="https://img.shields.io/badge/-Micropython-2B2728?&logo=micropython&logoColor=white"></a>
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?&logo=arduino&logoColor=white"></a>
   <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?&logo=LaTeX&logoColor=white"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?&logo=markdown&logoColor=white"></a>
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=white"></a>
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?&logo=css3&logoColor=white"></a>
 
 ### 💻 Programming Tools
   <a href="#"><img alt="Conda" src="https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white"></a>
