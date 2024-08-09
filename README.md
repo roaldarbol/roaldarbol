@@ -26,28 +26,14 @@
   <a href="#"><img alt="Github" src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white"></a>
   <a href="#"><img alt="Homebrew" src="https://img.shields.io/badge/-Homebrew-FBB040?logo=homebrew&logoColor=white"></a>
   <a href="#"><img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?logo=jekyll&logoColor=white"></a>
-  <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?&logo=rstudio&logoColor=white"></a>
-  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack Overflow-F58025?logo=stackoverflow&logoColor=white"></a>
   <a href="#"><img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-007ACC?&logo=visualstudiocode"></a>
 
 ### 🔬 Research Cycle 
   <a href="#"><img alt="Incscape" src="https://img.shields.io/badge/-Inkscape-000000?logo=inkscape&logoColor=white"></a>
   <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white"></a>
-  <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=white"></a>
-  <a href="#"><img alt="protocols.io" src="https://img.shields.io/badge/-protocols.io-4D9FE7?logo=protocols.io&logoColor=white"></a>
   <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-A22846?logo=raspberrypi&logoColor=white"></a>
-  <a href="#"><img alt="Thingiverse" src="https://img.shields.io/badge/-Thingiverse-248BFB?logo=Thingiverse&logoColor=white"></a>
   <a href="#"><img alt="Zenodo" src="https://img.shields.io/badge/-Zenodo-1682D4?logo=Zenodo&logoColor=white"></a>
   <a href="#"><img alt="Zotero" src="https://img.shields.io/badge/-Zotero-CC2936?logo=zotero&logoColor=white"></a>
-
-### 🕵️ Privacy Tools
-  <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
-  <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-  <a href="#"><img alt="MEGA" src="https://img.shields.io/badge/-MEGA-D9272E?logo=mega&logoColor=white"></a>
-  <a href="#"><img alt="ProtonMail" src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=ProtonMail&logoColor=white"></a>
-  <a href="#"><img alt="ProtonVPN" src="https://img.shields.io/badge/-ProtonVPN-56B366?logo=ProtonVPN&logoColor=white"></a>
-  <a href="#"><img alt="Signal" src="https://img.shields.io/badge/-Signal-3A76F0?logo=Signal&logoColor=white"></a>
-
 
 <!--
 
